@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "MMWSTM-ADRAN+"
+version: "1.0.1"
+doi: 10.5281/zenodo.15835807
+date-released: 2025-07-08
+authors:
+  - family-names: Shaheen
+    given-names: Mohammed Saleh Ahmed
+    orcid: "https://orcid.org/0000-0002-9289-128X"
+repository-code: "https://github.com/SHAHEENGOLO/MMWSTM-ADRAN-"
+license: "MIT"
+abstract: >
+  Dual-stream deep learning model for daily climate forecasting
+  and extreme-event detection.
+keywords:
+  - climate forecasting
+  - deep learning
+  - LSTM
+  - anomaly detection
